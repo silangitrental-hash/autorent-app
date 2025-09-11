@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "autorent-manager-crdd3"
-  }
+    "default": "autorent-app"
+  },
+  "targets": {},
+  "etags": {}
 }
